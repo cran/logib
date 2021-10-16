@@ -1,6 +1,6 @@
-e5366d7b2afee236f01623de26a953f3 *DESCRIPTION
+2e6dc0a566f2395444b43f86c1011620 *DESCRIPTION
 4577c913b66765787a49d3355df2b8b8 *NAMESPACE
-6f0c5f7b5197d7d1065a133bbd2ad0ee *NEWS.md
+7a95875ccab9de37462ee7183749bbde *NEWS.md
 da9dccc58eb21b3f7104db912e224c97 *R/analysis.R
 ada45d671335da7f04d2f0e2057d79c9 *R/data.R
 48fe6c61462b76dac028d93db1b4d284 *R/data_check.R
@@ -11,7 +11,7 @@ a01a60327c78a62f46e3a8d6e14c9771 *R/date_utils.R
 e3da7c2435f6ec2b1dd52922c5ff80a6 *R/globals.R
 4297866ea6da9a856196f41494b9faad *R/models.R
 9df479b7467357631d965a4fc172063c *R/sysdata.rda
-722e2003a616281118799dc4cb5a2e4e *README.md
+e519552e4e8af83c7df1085ff64added *README.md
 f274161e1bf78b93d5fbd43eed043766 *data/datalist_imprimerie.rda
 1e92fa89d40340f1e9ab95ad03bb058c *man/all_column_names.Rd
 a2f993318d4468134bd63bbfef6a7683 *man/analysis.Rd

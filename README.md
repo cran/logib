@@ -12,7 +12,10 @@ devtools::install_github("JLDC/logib")
 ```
 
 ### CRAN
-Not yet released...
+In order to install the latest release from CRAN, use:
+```R
+install.packages("logib")
+```
 
 ### Examples
 
@@ -42,7 +45,7 @@ summary(results)
 ```
 
 ### Further Resources
-+ [Federal Office for Gender Equality's information page on Logib](https://www.ebg.admin.ch/ebg/en/home/dienstleistungen/logib.html) 
++ [Federal Office for Gender Equality's information page on Logib](https://www.ebg.admin.ch/ebg/en/home/dienstleistungen/logib-triage.html) 
 + [Web implementation of the Logib salary equality model](https://www.logib.admin.ch)
 + [Methodology](https://www.ebg.admin.ch/dam/ebg/en/dokumente/lohngleichheit/infos-zu-analysen/standard-analysemodellzurueberpruefungderlohngleichheitzwischenf.pdf.download.pdf/methodological_approachformonitoringcompliancewithwageequalitybe.pdf)
 + Official datalists: 
