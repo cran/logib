@@ -1,3 +1,9 @@
+# logib 0.2.1
+
+* Update example datalist description
+* Warning messages have been adjusted
+* Added Silvia Strub as contributor
+
 # logib 0.2.0
 
 * Datalists and URLs have been updated
@@ -8,6 +14,6 @@
 * Update datalist column names
 
 
-# logib 0.1.3
+# logib 0.1.2
 
 * Update link to methodology document

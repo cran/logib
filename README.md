@@ -1,6 +1,6 @@
 # Logib
 ## Introduction
-The package `logib` is an `R` implementation of the Swiss Confederation's salary analysis tool for assessing equal pay practices (https://www.logib.admin.ch)
+The package `logib` is an `R` implementation of the Swiss Confederation's salary analysis tool for assessing equal pay practices (www.logib.admin.ch)
 
 ## Installation
 ### GitHub
